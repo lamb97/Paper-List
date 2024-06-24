@@ -3,4 +3,4 @@
 - CoRL 2022, Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning, [Website](https://leggedrobotics.github.io/legged_gym/) /  [arXiv](https://arxiv.org/abs/2109.11978)
 - RSS 2021, **RMA**: Rapid Motor Adaptation for Legged Robots, [Website](https://ashish-kmr.github.io/rma-legged-robots/)
 - Science Robotics 2019, Learning agile and dynamic motor skills for legged robots, [video](https://youtu.be/aTDkYFZFWug?si=uOz0P2ErlVum0TO0) / [arxiv](https://arxiv.org/abs/1901.08652)
-- Science Robotics 2020, Learning Quadrupedal Locomotion over Challenging Terrain
+- Science Robotics 2020, Learning Quadrupedal Locomotion over Challenging Terrain, [Website](https://leggedrobotics.github.io/rl-blindloco/) 
