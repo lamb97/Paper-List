@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- AMP: Adversarial Motion Priors for Stylized Physics-Based CharacterControl, [Website](https://xbpeng.github.io/projects/AMP/index.html)
 - Science Robotics 2019, Learning agile and dynamic motor skills for legged robots, [Video](https://youtu.be/aTDkYFZFWug?si=uOz0P2ErlVum0TO0) / [arXiv](https://arxiv.org/abs/1901.08652)
 - Science Robotics 2020, Learning Quadrupedal Locomotion over Challenging Terrain, [Website](https://leggedrobotics.github.io/rl-blindloco/)
 - RSS 2021, **RMA**: Rapid Motor Adaptation for Legged Robots, [Website](https://ashish-kmr.github.io/rma-legged-robots/)
