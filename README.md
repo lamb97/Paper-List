@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- arXiv 2016, A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models, [arXiv](https://arxiv.org/abs/1611.03852)
 - ACM SIGGRAPH 2021, **AMP**: Adversarial Motion Priors for Stylized Physics-Based CharacterControl, [Website](https://xbpeng.github.io/projects/AMP/index.html)
 - Science Robotics 2019, Learning agile and dynamic motor skills for legged robots, [Video](https://youtu.be/aTDkYFZFWug?si=uOz0P2ErlVum0TO0) / [arXiv](https://arxiv.org/abs/1901.08652)
 - Science Robotics 2020, Learning Quadrupedal Locomotion over Challenging Terrain, [Website](https://leggedrobotics.github.io/rl-blindloco/)
