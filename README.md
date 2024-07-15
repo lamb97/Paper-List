@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- ICRA 2024, Extreme Parkour with Legged Robots, [Webisite](https://extreme-parkour.github.io/)
 - ScienceDirect 2021, Development of quadruped walking robots: A review, [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2090447920302501)
 - arXiv 2016, A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models, [arXiv](https://arxiv.org/abs/1611.03852)
 - ACM SIGGRAPH 2021, **AMP**: Adversarial Motion Priors for Stylized Physics-Based CharacterControl, [Website](https://xbpeng.github.io/projects/AMP/index.html)
