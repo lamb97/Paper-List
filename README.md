@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- CoRL 2021, Minimizing Energy Consumption Leads to the Emergence of Gaits in Legged Robots, [Webiste](https://energy-locomotion.github.io/)
 - CoRL 2023, Robot Parkour Learning, [Website](https://robot-parkour.github.io/)
 - ICRA 2024, Extreme Parkour with Legged Robots, [Webisite](https://extreme-parkour.github.io/)
 - ScienceDirect 2021, Development of quadruped walking robots: A review, [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2090447920302501)
