@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- RSS 2023, Robust Recovery Motion Control for Quadrupedal Robots via Learned Terrain Imagination, 
 - CoRL 2020, **Transporter Networks**: Rearranging the Visual World for Robotic Manipulation, [Webiste](https://transporternets.github.io/)
 - Nature Machine Intelligence 2024, Lifelike Agility and Play in Quadrupedal Robots using Reinforcement Learning and Generative Pre-trained Models, [Website](https://tencent-roboticsx.github.io/lifelike-agility-and-play/)
 - CoRL 2021, Minimizing Energy Consumption Leads to the Emergence of Gaits in Legged Robots, [Webiste](https://energy-locomotion.github.io/)
