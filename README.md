@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- Science Robotics 2024, Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning, [arxiv]()
 - RSS 2023, Robust Recovery Motion Control for Quadrupedal Robots via Learned Terrain Imagination, [Webiste](https://sites.google.com/view/dreamriser)
 - CoRL 2020, **Transporter Networks**: Rearranging the Visual World for Robotic Manipulation, [Webiste](https://transporternets.github.io/)
 - Nature Machine Intelligence 2024, Lifelike Agility and Play in Quadrupedal Robots using Reinforcement Learning and Generative Pre-trained Models, [Website](https://tencent-roboticsx.github.io/lifelike-agility-and-play/)
