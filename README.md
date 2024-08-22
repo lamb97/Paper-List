@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- RSS 2024, RVT-2: Learning Precise Manipulation from Few Examples, [Website](https://robotic-view-transformer-2.github.io/)
 - Science Robotics 2024, Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning, [arxiv](https://arxiv.org/abs/2304.13653)
 - RSS 2023, Robust Recovery Motion Control for Quadrupedal Robots via Learned Terrain Imagination, [Webiste](https://sites.google.com/view/dreamriser)
 - CoRL 2020, **Transporter Networks**: Rearranging the Visual World for Robotic Manipulation, [Webiste](https://transporternets.github.io/)
