@@ -1,5 +1,5 @@
 # A Paper List of Yang Liu
-- arXiv 2024, Do As I Can, Not As I Say:Grounding Language in Robotic Affordances, [arXiv]([https://arxiv.org/abs/1611.03852](https://arxiv.org/abs/2204.01691))
+- arXiv 2024, Do As I Can, Not As I Say:Grounding Language in Robotic Affordances, [arXiv](https://arxiv.org/abs/2204.01691)
 - RSS 2024, RVT-2: Learning Precise Manipulation from Few Examples, [Website](https://robotic-view-transformer-2.github.io/)
 - Science Robotics 2024, Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning, [arxiv](https://arxiv.org/abs/2304.13653)
 - RSS 2023, Robust Recovery Motion Control for Quadrupedal Robots via Learned Terrain Imagination, [Webiste](https://sites.google.com/view/dreamriser)
