@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- arXiv 2024, **Not Only Rewards But Also Constraints**:Applications on Legged Robot Locomotion, [arXiv](https://arxiv.org/pdf/2308.12517)
 - arXiv 2023, **DreamWaQ**: Learning Robust Quadrupedal Locomotion With ImplicitTerrain Imagination via Deep Reinforcement Learning, [arXiv](https://arxiv.org/abs/2301.10602)
 - arXiv 2024, Do As I Can, Not As I Say:Grounding Language in Robotic Affordances, [arXiv](https://arxiv.org/abs/2204.01691)
 - RSS 2024, RVT-2: Learning Precise Manipulation from Few Examples, [Website](https://robotic-view-transformer-2.github.io/)
