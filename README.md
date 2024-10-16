@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- arXiv 2023, Anymal parkour: Learning agile navigation for quadrupedal robots, [arXiv](https://arxiv.org/abs/2306.14874)
 - arXiv 2024, **Not Only Rewards But Also Constraints**:Applications on Legged Robot Locomotion, [arXiv](https://arxiv.org/pdf/2308.12517)
 - arXiv 2023, **DreamWaQ**: Learning Robust Quadrupedal Locomotion With ImplicitTerrain Imagination via Deep Reinforcement Learning, [arXiv](https://arxiv.org/abs/2301.10602)
 - arXiv 2024, Do As I Can, Not As I Say:Grounding Language in Robotic Affordances, [arXiv](https://arxiv.org/abs/2204.01691)
