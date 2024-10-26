@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- arXiv 2024, Open X-Embodiment: Robotic Learning Datasets and RT-X Models, [arXiv]([https://arxiv.org/abs/2306.14874](https://arxiv.org/pdf/2310.08864))
 - arXiv 2023, Anymal parkour: Learning agile navigation for quadrupedal robots, [arXiv](https://arxiv.org/abs/2306.14874)
 - arXiv 2024, **Not Only Rewards But Also Constraints**:Applications on Legged Robot Locomotion, [arXiv](https://arxiv.org/pdf/2308.12517)
 - arXiv 2023, **DreamWaQ**: Learning Robust Quadrupedal Locomotion With ImplicitTerrain Imagination via Deep Reinforcement Learning, [arXiv](https://arxiv.org/abs/2301.10602)
