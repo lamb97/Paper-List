@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- arXiv 2024, Walking with Terrain Reconstruction: Learning to Traverse Risky Sparse Footholds, [arXiv](https://arxiv.org/pdf/2409.15692)
 - arXiv 2024, **Helpful DoggyBot**: Open-World Object Fetching using Legged Robots and Vision-Language Models, [Website](https://helpful-doggybot.github.io/)
 - arXiv 2024, Open X-Embodiment: Robotic Learning Datasets and RT-X Models, [arXiv](https://arxiv.org/pdf/2310.08864)
 - arXiv 2023, Anymal parkour: Learning agile navigation for quadrupedal robots, [arXiv](https://arxiv.org/abs/2306.14874)
