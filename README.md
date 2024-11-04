@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- RSS 2023, **ALOHA**: Learning Fine-Grained Bimanual Manipulation with  Low-Cost Hardware, [Website](https://tonyzhaozh.github.io/aloha/)
 - CoRL 2022, **Perceiver-Actor**: A Multi-Task Transformer for Robotic Manipulation, [Website](https://peract.github.io/)
 - ICML 2021, **CLIP**: Learning Transferable Visual Models From Natural Language Supervision, [arXiv](https://arxiv.org/abs/2103.00020)
 - ICRA 2024, **Talk Through It**: End User Directed Manipulation Learning, [Website](https://talk-through-it.github.io/)
