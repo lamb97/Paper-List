@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- ICRA 2023, Learning Whole-body Manipulation for Quadrupedal Robot, [arXiv](https://arxiv.org/abs/2308.16820)
 - RSS 2023, **ALOHA**: Learning Fine-Grained Bimanual Manipulation with  Low-Cost Hardware, [Website](https://tonyzhaozh.github.io/aloha/)
 - CoRL 2022, **Perceiver-Actor**: A Multi-Task Transformer for Robotic Manipulation, [Website](https://peract.github.io/)
 - ICML 2021, **CLIP**: Learning Transferable Visual Models From Natural Language Supervision, [arXiv](https://arxiv.org/abs/2103.00020)
