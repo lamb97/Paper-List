@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- ECCV 2024, **COPL**:Visual Grounding for Object-Level Generalization in Reinforcement Learning, [arXiv](https://arxiv.org/abs/2408.01942)
 - ICRA 2024, **Pedipulate**: Enabling Manipulation Skills using a Quadruped Robot’s Leg, [Website](https://sites.google.com/leggedrobotics.com/pedipulate)
 - ICRA 2023, Learning Whole-body Manipulation for Quadrupedal Robot, [arXiv](https://arxiv.org/abs/2308.16820)
 - RSS 2023, **ALOHA**: Learning Fine-Grained Bimanual Manipulation with  Low-Cost Hardware, [Website](https://tonyzhaozh.github.io/aloha/)
