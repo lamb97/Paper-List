@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- RSS 2024, **GOAT**: GO to Any Thing, [Website](https://theophilegervet.github.io/projects/goat/)
 - arXiv 2024, **GVL**:Vision Language Models are In-Context Value Learners, [Website](https://generative-value-learning.github.io/#online-demo)
 - ECCV 2024, **COPL**:Visual Grounding for Object-Level Generalization in Reinforcement Learning, [arXiv](https://arxiv.org/abs/2408.01942)
 - ICRA 2024, **Pedipulate**: Enabling Manipulation Skills using a Quadruped Robot’s Leg, [Website](https://sites.google.com/leggedrobotics.com/pedipulate)
