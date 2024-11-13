@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- CoRL 2023, Seeing-Eye Quadruped Navigation with Force Responsive Locomotion Control, [Website](https://bu-air-lab.github.io/guide_dog/)
 - arXiv 2024, **Survey**: Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis, [arXiv](https://arxiv.org/abs/2312.08782)
 - RSS 2024, **GOAT**: GO to Any Thing, [Website](https://theophilegervet.github.io/projects/goat/)
 - arXiv 2024, **GVL**:Vision Language Models are In-Context Value Learners, [Website](https://generative-value-learning.github.io/#online-demo)
