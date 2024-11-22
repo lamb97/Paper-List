@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- CoRL 2024, **UMI on Legs**: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers, [Website](https://umi-on-legs.github.io/)
 - CoRL 2023, Seeing-Eye Quadruped Navigation with Force Responsive Locomotion Control, [Website](https://bu-air-lab.github.io/guide_dog/)
 - arXiv 2024, **Survey**: Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis, [arXiv](https://arxiv.org/abs/2312.08782)
 - RSS 2024, **GOAT**: GO to Any Thing, [Website](https://theophilegervet.github.io/projects/goat/)
