@@ -1,5 +1,5 @@
 # A Paper List of Yang Liu
-- arXiv 2024, **Catch It! **:Learning to Catch in Flight with Mobile Dexterous Hands, [Website](https://mobile-dex-catch.github.io/)
+- arXiv 2024, **Catch It!**:Learning to Catch in Flight with Mobile Dexterous Hands, [Website](https://mobile-dex-catch.github.io/)
 - CoRL 2024, **UMI on Legs**: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers, [Website](https://umi-on-legs.github.io/)
 - CoRL 2023, Seeing-Eye Quadruped Navigation with Force Responsive Locomotion Control, [Website](https://bu-air-lab.github.io/guide_dog/)
 - arXiv 2024, **Survey**: Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis, [arXiv](https://arxiv.org/abs/2312.08782)
