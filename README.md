@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- RSS 2023, **Diffusion Policy** Visuomotor Policy Learning via Action Diffusion, [Website](https://diffusion-policy.cs.columbia.edu/)
 - arXiv 2024, **Catch It!**:Learning to Catch in Flight with Mobile Dexterous Hands, [Website](https://mobile-dex-catch.github.io/)
 - CoRL 2024, **UMI on Legs**: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers, [Website](https://umi-on-legs.github.io/)
 - CoRL 2023, Seeing-Eye Quadruped Navigation with Force Responsive Locomotion Control, [Website](https://bu-air-lab.github.io/guide_dog/)
