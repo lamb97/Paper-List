@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- CVPR 2023, **CoWs on Pasture**:Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation, [Website](https://cow.cs.columbia.edu/)
 - CoRL 2024, **Open-TeleVision**:Teleoperation with Immersive Active Visual Feedback, [Website](https://robot-tv.github.io/)
 - RSS 2023, **Diffusion Policy** Visuomotor Policy Learning via Action Diffusion, [Website](https://diffusion-policy.cs.columbia.edu/)
 - arXiv 2024, **Catch It!**:Learning to Catch in Flight with Mobile Dexterous Hands, [Website](https://mobile-dex-catch.github.io/)
