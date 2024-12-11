@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- CoRL 2022, **Deep Whole-Body Control**: Learning a Unified Policy for Manipulation and Locomotion, [Website](https://manipulation-locomotion.github.io/)
 - CVPR 2023, **CoWs on Pasture**:Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation, [Website](https://cow.cs.columbia.edu/)
 - CoRL 2024, **Open-TeleVision**:Teleoperation with Immersive Active Visual Feedback, [Website](https://robot-tv.github.io/)
 - RSS 2023, **Diffusion Policy** Visuomotor Policy Learning via Action Diffusion, [Website](https://diffusion-policy.cs.columbia.edu/)
