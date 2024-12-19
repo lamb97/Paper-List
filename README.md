@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- arXiv 2024, **PIE**: Parkour with Implicit-Explicit Learning Framework for Legged Robots, [arXiv](https://arxiv.org/pdf/2408.13740..)
 - CoRL 2024, **VBC**: Visual Whole-Body Control for Legged Loco-Manipulation, [Website](https://wholebody-b1.github.io/)
 - CoRL 2022, **Deep Whole-Body Control**: Learning a Unified Policy for Manipulation and Locomotion, [Website](https://manipulation-locomotion.github.io/)
 - CVPR 2023, **CoWs on Pasture**:Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation, [Website](https://cow.cs.columbia.edu/)
