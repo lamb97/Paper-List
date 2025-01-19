@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- arXiv 2024, **PIM**: Learning Humanoid Locomotion with Perceptive Internal Model, [Website](https://junfeng-long.github.io/PIM/)
 - arXiv 2024, **EgoMimic**: Scaling Imitation Learning through Egocentric Video, [Website](https://egomimic.github.io/)
 - arXiv 2024, **Walking with Terrain Reconstruction**: Learning to Traverse Risky Sparse Footholds, [arXiv](https://arxiv.org/pdf/2409.15692)
 - arXiv 2024, **PIE**: Parkour with Implicit-Explicit Learning Framework for Legged Robots, [arXiv](https://arxiv.org/pdf/2408.13740..)
