@@ -1,4 +1,5 @@
 # A Paper List of Yang Liu
+- Humanoids 2023, Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation, [Website](https://ut-austin-rpl.github.io/TRILL/)
 - arXiv 2025, **ASAP**: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [Website](https://agile.human2humanoid.com/)
 - CoRL 2024, **Humanoid Parkour Learning**, [Website](https://humanoid4parkour.github.io/)
 - CoRL 2024, **OpenVLA**: An Open-Source Vision-Language-Action Model, [Webiste](https://openvla.github.io/)
