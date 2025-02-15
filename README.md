@@ -1,5 +1,6 @@
 # A Paper List of Yang Liu
-- RSS 2024, **Expressive Humannoid**: Expressive Whole-Body Control for Humanoid Robots, [Website](https://expressive-humanoid.github.io/)
+- arXiv 2024,**Exbody2**: Advanced Expressive Humanoid Whole-Body Control, [Website](https://exbody2.github.io/)
+- RSS 2024, **Exbody**: Expressive Whole-Body Control for Humanoid Robots, [Website](https://expressive-humanoid.github.io/)
 - Humanoids 2023, Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation, [Website](https://ut-austin-rpl.github.io/TRILL/)
 - arXiv 2025, **ASAP**: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [Website](https://agile.human2humanoid.com/)
 - CoRL 2024, **Humanoid Parkour Learning**, [Website](https://humanoid4parkour.github.io/)
