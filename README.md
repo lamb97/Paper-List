@@ -7,6 +7,7 @@
 - arXiv 2025, **ASAP**: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [Website](https://agile.human2humanoid.com/)
 - CoRL 2024, **Humanoid Parkour Learning**, [Website](https://humanoid4parkour.github.io/)
 - arXiv 2024, **PIM**: Learning Humanoid Locomotion with Perceptive Internal Model, [Website](https://junfeng-long.github.io/PIM/)
+## Quadruped
 - CoRL 2022, **Walk These Ways**: Tuning Robot Control for Generalization with Multiplicity of Behavior, [Website]()
 
 
