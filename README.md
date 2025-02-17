@@ -1,5 +1,5 @@
 # A Paper List of Yang Liu
-##Humanoid
+## Humanoid
 - arXiv 2025, **Embrace Collisions**: Humanoid Shadowing for Deployable Contact-Agnostics Motions, [Website](https://project-instinct.github.io/)
 - arXiv 2024,**Exbody2**: Advanced Expressive Humanoid Whole-Body Control, [Website](https://exbody2.github.io/)
 - RSS 2024, **Exbody**: Expressive Whole-Body Control for Humanoid Robots, [Website](https://expressive-humanoid.github.io/)
