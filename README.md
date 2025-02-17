@@ -1,13 +1,19 @@
 # A Paper List of Yang Liu
-- CoRL 2022, **Walk These Ways**: Tuning Robot Control for Generalization with Multiplicity of Behavior, [Website]()
+##Humanoid
 - arXiv 2025, **Embrace Collisions**: Humanoid Shadowing for Deployable Contact-Agnostics Motions, [Website](https://project-instinct.github.io/)
 - arXiv 2024,**Exbody2**: Advanced Expressive Humanoid Whole-Body Control, [Website](https://exbody2.github.io/)
 - RSS 2024, **Exbody**: Expressive Whole-Body Control for Humanoid Robots, [Website](https://expressive-humanoid.github.io/)
 - Humanoids 2023, Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation, [Website](https://ut-austin-rpl.github.io/TRILL/)
 - arXiv 2025, **ASAP**: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [Website](https://agile.human2humanoid.com/)
 - CoRL 2024, **Humanoid Parkour Learning**, [Website](https://humanoid4parkour.github.io/)
-- CoRL 2024, **OpenVLA**: An Open-Source Vision-Language-Action Model, [Webiste](https://openvla.github.io/)
 - arXiv 2024, **PIM**: Learning Humanoid Locomotion with Perceptive Internal Model, [Website](https://junfeng-long.github.io/PIM/)
+- CoRL 2022, **Walk These Ways**: Tuning Robot Control for Generalization with Multiplicity of Behavior, [Website]()
+
+
+
+
+- CoRL 2024, **OpenVLA**: An Open-Source Vision-Language-Action Model, [Webiste](https://openvla.github.io/)
+
 - arXiv 2024, **EgoMimic**: Scaling Imitation Learning through Egocentric Video, [Website](https://egomimic.github.io/)
 - arXiv 2024, **Walking with Terrain Reconstruction**: Learning to Traverse Risky Sparse Footholds, [arXiv](https://arxiv.org/pdf/2409.15692)
 - arXiv 2024, **PIE**: Parkour with Implicit-Explicit Learning Framework for Legged Robots, [arXiv](https://arxiv.org/pdf/2408.13740..)
