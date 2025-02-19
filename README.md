@@ -9,15 +9,15 @@
 - arXiv 2024, **PIM**: Learning Humanoid Locomotion with Perceptive Internal Model, [Website](https://junfeng-long.github.io/PIM/)
 ## Quadruped
 - CoRL 2022, **Walk These Ways**: Tuning Robot Control for Generalization with Multiplicity of Behavior, [Website]()
-
-
-
+- arXiv 2024, **Walking with Terrain Reconstruction**: Learning to Traverse Risky Sparse Footholds, [arXiv](https://arxiv.org/pdf/2409.15692)
+- arXiv 2024, **PIE**: Parkour with Implicit-Explicit Learning Framework for Legged Robots, [arXiv](https://arxiv.org/pdf/2408.13740..)
+- arXiv 2024, **Helpful DoggyBot**: Open-World Object Fetching using Legged Robots and Vision-Language Models, [Website](https://helpful-doggybot.github.io/)
 
 - CoRL 2024, **OpenVLA**: An Open-Source Vision-Language-Action Model, [Webiste](https://openvla.github.io/)
 
 - arXiv 2024, **EgoMimic**: Scaling Imitation Learning through Egocentric Video, [Website](https://egomimic.github.io/)
-- arXiv 2024, **Walking with Terrain Reconstruction**: Learning to Traverse Risky Sparse Footholds, [arXiv](https://arxiv.org/pdf/2409.15692)
-- arXiv 2024, **PIE**: Parkour with Implicit-Explicit Learning Framework for Legged Robots, [arXiv](https://arxiv.org/pdf/2408.13740..)
+
+
 - CoRL 2024, **VBC**: Visual Whole-Body Control for Legged Loco-Manipulation, [Website](https://wholebody-b1.github.io/)
 - CoRL 2022, **Deep Whole-Body Control**: Learning a Unified Policy for Manipulation and Locomotion, [Website](https://manipulation-locomotion.github.io/)
 - CVPR 2023, **CoWs on Pasture**:Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation, [Website](https://cow.cs.columbia.edu/)
@@ -36,7 +36,7 @@
 - CoRL 2022, **Perceiver-Actor**: A Multi-Task Transformer for Robotic Manipulation, [Website](https://peract.github.io/)
 - ICML 2021, **CLIP**: Learning Transferable Visual Models From Natural Language Supervision, [arXiv](https://arxiv.org/abs/2103.00020)
 - ICRA 2024, **Talk Through It**: End User Directed Manipulation Learning, [Website](https://talk-through-it.github.io/)
-- arXiv 2024, **Helpful DoggyBot**: Open-World Object Fetching using Legged Robots and Vision-Language Models, [Website](https://helpful-doggybot.github.io/)
+
 - arXiv 2024, **Open X-Embodiment**: Robotic Learning Datasets and RT-X Models, [arXiv](https://arxiv.org/pdf/2310.08864)
 - arXiv 2023, **Anymal parkour**: Learning agile navigation for quadrupedal robots, [arXiv](https://arxiv.org/abs/2306.14874)
 - arXiv 2024, **Not Only Rewards But Also Constraints**:Applications on Legged Robot Locomotion, [arXiv](https://arxiv.org/pdf/2308.12517)
