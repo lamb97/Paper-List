@@ -34,14 +34,14 @@
 - arXiv 2024, **EgoMimic**: Scaling Imitation Learning through Egocentric Video, [Website](https://egomimic.github.io/)
 - CoRL 2024, **VBC**: Visual Whole-Body Control for Legged Loco-Manipulation, [Website](https://wholebody-b1.github.io/)
 - CoRL 2022, **Deep Whole-Body Control**: Learning a Unified Policy for Manipulation and Locomotion, [Website](https://manipulation-locomotion.github.io/)
-- CVPR 2023, **CoWs on Pasture**:Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation, [Website](https://cow.cs.columbia.edu/)
+
 - CoRL 2024, **Open-TeleVision**:Teleoperation with Immersive Active Visual Feedback, [Website](https://robot-tv.github.io/)
 - RSS 2023, **Diffusion Policy** Visuomotor Policy Learning via Action Diffusion, [Website](https://diffusion-policy.cs.columbia.edu/)
 - arXiv 2024, **Catch It!**:Learning to Catch in Flight with Mobile Dexterous Hands, [Website](https://mobile-dex-catch.github.io/)
 - CoRL 2024, **UMI on Legs**: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers, [Website](https://umi-on-legs.github.io/)
 - CoRL 2023, Seeing-Eye Quadruped Navigation with Force Responsive Locomotion Control, [Website](https://bu-air-lab.github.io/guide_dog/)
 - arXiv 2024, **Survey**: Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis, [arXiv](https://arxiv.org/abs/2312.08782)
-- RSS 2024, **GOAT**: GO to Any Thing, [Website](https://theophilegervet.github.io/projects/goat/)
+
 - arXiv 2024, **GVL**:Vision Language Models are In-Context Value Learners, [Website](https://generative-value-learning.github.io/#online-demo)
 - ECCV 2024, **COPL**:Visual Grounding for Object-Level Generalization in Reinforcement Learning, [arXiv](https://arxiv.org/abs/2408.01942)
 - ICRA 2024, **Pedipulate**: Enabling Manipulation Skills using a Quadruped Robot’s Leg, [Website](https://sites.google.com/leggedrobotics.com/pedipulate)
@@ -60,7 +60,8 @@
 - CoRL 2020, **Transporter Networks**: Rearranging the Visual World for Robotic Manipulation, [Webiste](https://transporternets.github.io/)
 
 - arXiv 2016, A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models, [arXiv](https://arxiv.org/abs/1611.03852)
-
-
+## Navigation
+- CVPR 2023, **CoWs on Pasture**:Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation, [Website](https://cow.cs.columbia.edu/)
+- RSS 2024, **GOAT**: GO to Any Thing, [Website](https://theophilegervet.github.io/projects/goat/)
 
 
