@@ -9,6 +9,7 @@
 - arXiv 2024, **PIM**: Learning Humanoid Locomotion with Perceptive Internal Model, [Website](https://junfeng-long.github.io/PIM/)
 - Science Robotics 2024, Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning, [arxiv](https://arxiv.org/abs/2304.13653)
 ## Quadruped
+- arXiv 2024,**MOVE**: Multi-skill Omnidirectional Legged Locomotion with Limited View in 3D Environments, [arXiv](https://arxiv.org/abs/2412.03353)
 - ICLR 2024, **HIMLOCO**: Hybrid Internal Model for Legged Locomotion, [Website](https://junfeng-long.github.io/HIMLoco/)
 - CoRL 2022, **Walk These Ways**: Tuning Robot Control for Generalization with Multiplicity of Behavior, [Website]()
 - arXiv 2024, **Walking with Terrain Reconstruction**: Learning to Traverse Risky Sparse Footholds, [arXiv](https://arxiv.org/pdf/2409.15692)
