@@ -1,6 +1,7 @@
 # A Paper List of Yang Liu
 ## Locomotion
 ### Humanoid
+- arXiv 2025, **VB-Com**: Learning Vision-Blind Composite Humanoid Locomotion Against Deficient Perception, [Website](https://renjunli99.github.io/vbcom.github.io/)
 - arXiv 2025, **Embrace Collisions**: Humanoid Shadowing for Deployable Contact-Agnostics Motions, [Website](https://project-instinct.github.io/)
 - arXiv 2024,**Exbody2**: Advanced Expressive Humanoid Whole-Body Control, [Website](https://exbody2.github.io/)
 - RSS 2024, **Exbody**: Expressive Whole-Body Control for Humanoid Robots, [Website](https://expressive-humanoid.github.io/)
