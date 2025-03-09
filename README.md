@@ -34,6 +34,7 @@
 - CoRL 2022, Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning, [Website](https://leggedrobotics.github.io/legged_gym/) /  [arXiv](https://arxiv.org/abs/2109.11978)
 - RA-L 2023, Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors, [bilibili](https://www.bilibili.com/video/BV1nM4y177rY/)
 ## Loco-manipulation
+- IROS 2024, **human2humanoid**: Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation, [Website](https://human2humanoid.com/)
 - CoRL 2024, **VBC**: Visual Whole-Body Control for Legged Loco-Manipulation, [Website](https://wholebody-b1.github.io/)
 - CoRL 2022, **Deep Whole-Body Control**: Learning a Unified Policy for Manipulation and Locomotion, [Website](https://manipulation-locomotion.github.io/)
 - ICRA 2023, Learning Whole-body Manipulation for Quadrupedal Robot, [arXiv](https://arxiv.org/abs/2308.16820)
