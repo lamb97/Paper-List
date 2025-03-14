@@ -1,13 +1,20 @@
 # A Paper List of Yang Liu
-## Locomotion
-### Humanoid
+## Loco-manipulation
+- IROS 2024, **human2humanoid**: Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation, [Website](https://human2humanoid.com/)
 - arXiv 2025, **HugWBC**: A Unified and General Humanoid Whole-Body Controller for Fine-Grained Locomotion, [Website](https://hugwbc.github.io/)
-- arXiv 2025, **VB-Com**: Learning Vision-Blind Composite Humanoid Locomotion Against Deficient Perception, [Website](https://renjunli99.github.io/vbcom.github.io/)
 - arXiv 2025, **Embrace Collisions**: Humanoid Shadowing for Deployable Contact-Agnostics Motions, [Website](https://project-instinct.github.io/)
 - arXiv 2024,**Exbody2**: Advanced Expressive Humanoid Whole-Body Control, [Website](https://exbody2.github.io/)
 - RSS 2024, **Exbody**: Expressive Whole-Body Control for Humanoid Robots, [Website](https://expressive-humanoid.github.io/)
 - Humanoids 2023, Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation, [Website](https://ut-austin-rpl.github.io/TRILL/)
 - arXiv 2025, **ASAP**: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [Website](https://agile.human2humanoid.com/)
+- CoRL 2024, **VBC**: Visual Whole-Body Control for Legged Loco-Manipulation, [Website](https://wholebody-b1.github.io/)
+- CoRL 2022, **Deep Whole-Body Control**: Learning a Unified Policy for Manipulation and Locomotion, [Website](https://manipulation-locomotion.github.io/)
+- ICRA 2023, Learning Whole-body Manipulation for Quadrupedal Robot, [arXiv](https://arxiv.org/abs/2308.16820)
+## Locomotion
+### Humanoid
+
+- arXiv 2025, **VB-Com**: Learning Vision-Blind Composite Humanoid Locomotion Against Deficient Perception, [Website](https://renjunli99.github.io/vbcom.github.io/)
+
 - CoRL 2024, **Humanoid Parkour Learning**, [Website](https://humanoid4parkour.github.io/)
 - arXiv 2024, **PIM**: Learning Humanoid Locomotion with Perceptive Internal Model, [Website](https://junfeng-long.github.io/PIM/)
 - Science Robotics 2024, Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning, [arxiv](https://arxiv.org/abs/2304.13653)
@@ -33,11 +40,7 @@
 - RSS 2021, **RMA**: Rapid Motor Adaptation for Legged Robots, [Website](https://ashish-kmr.github.io/rma-legged-robots/)
 - CoRL 2022, Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning, [Website](https://leggedrobotics.github.io/legged_gym/) /  [arXiv](https://arxiv.org/abs/2109.11978)
 - RA-L 2023, Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors, [bilibili](https://www.bilibili.com/video/BV1nM4y177rY/)
-## Loco-manipulation
-- IROS 2024, **human2humanoid**: Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation, [Website](https://human2humanoid.com/)
-- CoRL 2024, **VBC**: Visual Whole-Body Control for Legged Loco-Manipulation, [Website](https://wholebody-b1.github.io/)
-- CoRL 2022, **Deep Whole-Body Control**: Learning a Unified Policy for Manipulation and Locomotion, [Website](https://manipulation-locomotion.github.io/)
-- ICRA 2023, Learning Whole-body Manipulation for Quadrupedal Robot, [arXiv](https://arxiv.org/abs/2308.16820)
+
 ## Manipulation
 
 - CoRL 2024, **OpenVLA**: An Open-Source Vision-Language-Action Model, [Webiste](https://openvla.github.io/)
