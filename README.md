@@ -1,5 +1,6 @@
 # A Paper List of Yang Liu
 ## Loco-manipulation
+- arXiv 2025, **HoST**:Learning Humanoid Standing-up Control Across Diverse Postures, [Website](https://taohuang13.github.io/humanoid-standingup.github.io/)
 - IROS 2024, **human2humanoid**: Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation, [Website](https://human2humanoid.com/)
 - arXiv 2025, **HugWBC**: A Unified and General Humanoid Whole-Body Controller for Fine-Grained Locomotion, [Website](https://hugwbc.github.io/)
 - arXiv 2025, **Embrace Collisions**: Humanoid Shadowing for Deployable Contact-Agnostics Motions, [Website](https://project-instinct.github.io/)
@@ -14,7 +15,6 @@
 ### Humanoid
 - arXiv 2025, **BeamDojo**: Learning Agile Humanoid Locomotion on Sparse Footholds, [Website](https://why618188.github.io/beamdojo/)
 - arXiv 2025, **VB-Com**: Learning Vision-Blind Composite Humanoid Locomotion Against Deficient Perception, [Website](https://renjunli99.github.io/vbcom.github.io/)
-
 - CoRL 2024, **Humanoid Parkour Learning**, [Website](https://humanoid4parkour.github.io/)
 - arXiv 2024, **PIM**: Learning Humanoid Locomotion with Perceptive Internal Model, [Website](https://junfeng-long.github.io/PIM/)
 - Science Robotics 2024, Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning, [arxiv](https://arxiv.org/abs/2304.13653)
