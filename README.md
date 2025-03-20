@@ -13,6 +13,7 @@
 - ICRA 2023, Learning Whole-body Manipulation for Quadrupedal Robot, [arXiv](https://arxiv.org/abs/2308.16820)
 ## Locomotion
 ### Humanoid
+- arXiv 2025, **GMP**: Natural Humanoid Robot Locomotion with Generative Motion Prior, [Website](https://sites.google.com/view/humanoid-gmp)
 - arXiv 2025, **BeamDojo**: Learning Agile Humanoid Locomotion on Sparse Footholds, [Website](https://why618188.github.io/beamdojo/)
 - arXiv 2025, **VB-Com**: Learning Vision-Blind Composite Humanoid Locomotion Against Deficient Perception, [Website](https://renjunli99.github.io/vbcom.github.io/)
 - CoRL 2024, **Humanoid Parkour Learning**, [Website](https://humanoid4parkour.github.io/)
