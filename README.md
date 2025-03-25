@@ -35,7 +35,7 @@
 - CoRL 2023, Robot Parkour Learning, [Website](https://robot-parkour.github.io/)
 - ICRA 2024, Extreme Parkour with Legged Robots, [Webisite](https://extreme-parkour.github.io/)
 - ScienceDirect 2021, Development of quadruped walking robots: A review, [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2090447920302501)
-- ACM SIGGRAPH 2021, **AMP**: Adversarial Motion Priors for Stylized Physics-Based CharacterControl, [Website](https://xbpeng.github.io/projects/AMP/index.html)
+
 - Science Robotics 2019, Learning agile and dynamic motor skills for legged robots, [Video](https://youtu.be/aTDkYFZFWug?si=uOz0P2ErlVum0TO0) / [arXiv](https://arxiv.org/abs/1901.08652)
 - Science Robotics 2020, Learning Quadrupedal Locomotion over Challenging Terrain, [Website](https://leggedrobotics.github.io/rl-blindloco/)
 - RSS 2021, **RMA**: Rapid Motor Adaptation for Legged Robots, [Website](https://ashish-kmr.github.io/rma-legged-robots/)
@@ -53,15 +53,12 @@
 - arXiv 2024, **Catch It!**:Learning to Catch in Flight with Mobile Dexterous Hands, [Website](https://mobile-dex-catch.github.io/)
 - CoRL 2024, **UMI on Legs**: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers, [Website](https://umi-on-legs.github.io/)
 
-- arXiv 2024, **Survey**: Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis, [arXiv](https://arxiv.org/abs/2312.08782)
-
-- arXiv 2024, **GVL**:Vision Language Models are In-Context Value Learners, [Website](https://generative-value-learning.github.io/#online-demo)
-- ECCV 2024, **COPL**:Visual Grounding for Object-Level Generalization in Reinforcement Learning, [arXiv](https://arxiv.org/abs/2408.01942)
+)
 - ICRA 2024, **Pedipulate**: Enabling Manipulation Skills using a Quadruped Robot’s Leg, [Website](https://sites.google.com/leggedrobotics.com/pedipulate)
 
 - RSS 2023, **ALOHA**: Learning Fine-Grained Bimanual Manipulation with  Low-Cost Hardware, [Website](https://tonyzhaozh.github.io/aloha/)
 - CoRL 2022, **Perceiver-Actor**: A Multi-Task Transformer for Robotic Manipulation, [Website](https://peract.github.io/)
-- ICML 2021, **CLIP**: Learning Transferable Visual Models From Natural Language Supervision, [arXiv](https://arxiv.org/abs/2103.00020)
+
 - ICRA 2024, **Talk Through It**: End User Directed Manipulation Learning, [Website](https://talk-through-it.github.io/)
 
 - arXiv 2024, **Open X-Embodiment**: Robotic Learning Datasets and RT-X Models, [arXiv](https://arxiv.org/pdf/2310.08864)
@@ -72,6 +69,13 @@
 
 - CoRL 2020, **Transporter Networks**: Rearranging the Visual World for Robotic Manipulation, [Webiste](https://transporternets.github.io/)
 
+
+## Foundational model
+- ACM SIGGRAPH 2021, **AMP**: Adversarial Motion Priors for Stylized Physics-Based CharacterControl, [Website](https://xbpeng.github.io/projects/AMP/index.html)
+- arXiv 2024, **Survey**: Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis, [arXiv](https://arxiv.org/abs/2312.08782)
+- arXiv 2024, **GVL**:Vision Language Models are In-Context Value Learners, [Website](https://generative-value-learning.github.io/#online-demo)
+- ECCV 2024, **COPL**:Visual Grounding for Object-Level Generalization in Reinforcement Learning, [arXiv](https://arxiv.org/abs/2408.01942
+- ICML 2021, **CLIP**: Learning Transferable Visual Models From Natural Language Supervision, [arXiv](https://arxiv.org/abs/2103.00020)
 - arXiv 2016, A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models, [arXiv](https://arxiv.org/abs/1611.03852)
 ## Navigation
 - CVPR 2023, **CoWs on Pasture**:Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation, [Website](https://cow.cs.columbia.edu/)
