@@ -53,7 +53,7 @@
 - arXiv 2024, **Catch It!**:Learning to Catch in Flight with Mobile Dexterous Hands, [Website](https://mobile-dex-catch.github.io/)
 - CoRL 2024, **UMI on Legs**: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers, [Website](https://umi-on-legs.github.io/)
 
-)
+
 - ICRA 2024, **Pedipulate**: Enabling Manipulation Skills using a Quadruped Robot’s Leg, [Website](https://sites.google.com/leggedrobotics.com/pedipulate)
 
 - RSS 2023, **ALOHA**: Learning Fine-Grained Bimanual Manipulation with  Low-Cost Hardware, [Website](https://tonyzhaozh.github.io/aloha/)
@@ -74,7 +74,7 @@
 - ACM SIGGRAPH 2021, **AMP**: Adversarial Motion Priors for Stylized Physics-Based CharacterControl, [Website](https://xbpeng.github.io/projects/AMP/index.html)
 - arXiv 2024, **Survey**: Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis, [arXiv](https://arxiv.org/abs/2312.08782)
 - arXiv 2024, **GVL**:Vision Language Models are In-Context Value Learners, [Website](https://generative-value-learning.github.io/#online-demo)
-- ECCV 2024, **COPL**:Visual Grounding for Object-Level Generalization in Reinforcement Learning, [arXiv](https://arxiv.org/abs/2408.01942
+- ECCV 2024, **COPL**:Visual Grounding for Object-Level Generalization in Reinforcement Learning, [arXiv](https://arxiv.org/abs/2408.01942)
 - ICML 2021, **CLIP**: Learning Transferable Visual Models From Natural Language Supervision, [arXiv](https://arxiv.org/abs/2103.00020)
 - arXiv 2016, A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models, [arXiv](https://arxiv.org/abs/1611.03852)
 ## Navigation
