@@ -71,6 +71,7 @@
 
 
 ## Foundational model
+- ACM SIGGRAPH 2024, **MaskedMimic**: Unified Physics-Based Character Control Through Masked Motion Inpainting, [Website](https://research.nvidia.com/labs/par/maskedmimic/)
 - ACM SIGGRAPH 2021, **AMP**: Adversarial Motion Priors for Stylized Physics-Based CharacterControl, [Website](https://xbpeng.github.io/projects/AMP/index.html)
 - arXiv 2024, **Survey**: Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis, [arXiv](https://arxiv.org/abs/2312.08782)
 - arXiv 2024, **GVL**:Vision Language Models are In-Context Value Learners, [Website](https://generative-value-learning.github.io/#online-demo)
