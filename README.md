@@ -56,6 +56,7 @@
 - RSS 2024, **RVT-2**: Learning Precise Manipulation from Few Examples, [Website](https://robotic-view-transformer-2.github.io/)
 - CoRL 2020, **Transporter Networks**: Rearranging the Visual World for Robotic Manipulation, [Webiste](https://transporternets.github.io/)
 ## Foundational model
+- NeurIPS 2021, **UHC**: Dynamics-Regulated Kinematic Policy for Egocentric Pose Estimation, [Website](https://zhengyiluo.com/projects/kin_poly/)
 - ICCV 2023, **PHC**: Perpetual Humanoid Control for Real-time Simulated Avatars, [Website](https://zhengyiluo.com/PHC-Site/)
 - ACM SIGGRAPH 2024, **MaskedMimic**: Unified Physics-Based Character Control Through Masked Motion Inpainting, [Website](https://research.nvidia.com/labs/par/maskedmimic/)
 - ACM SIGGRAPH 2021, **AMP**: Adversarial Motion Priors for Stylized Physics-Based CharacterControl, [Website](https://xbpeng.github.io/projects/AMP/index.html)
