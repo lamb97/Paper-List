@@ -58,7 +58,7 @@
 - RSS 2024, **RVT-2**: Learning Precise Manipulation from Few Examples, [Website](https://robotic-view-transformer-2.github.io/)
 - CoRL 2020, **Transporter Networks**: Rearranging the Visual World for Robotic Manipulation, [Webiste](https://transporternets.github.io/)
 ## Foundational model
-- ICLR 2024， **FULSE**: Universal Humanoid Motion Representations for Physics-Based Control, [Website]()
+- ICLR 2024， **PULSE**: Universal Humanoid Motion Representations for Physics-Based Control, [Website](https://www.zhengyiluo.com/PULSE-Site/)
 - arXic 2024, A Plug-and-Play Physical Motion Restoration Approach for In-the-Wild High-Difficulty Motions, [pdf](https://arxiv.org/pdf/2412.17377)
 - NeurIPS 2021, **UHC**: Dynamics-Regulated Kinematic Policy for Egocentric Pose Estimation, [Website](https://zhengyiluo.com/projects/kin_poly/)
 - ICCV 2023, **PHC**: Perpetual Humanoid Control for Real-time Simulated Avatars, [Website](https://zhengyiluo.com/PHC-Site/)
