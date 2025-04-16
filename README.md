@@ -1,6 +1,7 @@
 # A Paper List of Yang Liu
 ## Loco-manipulation
-- arXiv 2025, **HoST**:Learning Humanoid Standing-up Control Across Diverse Postures, [Website](https://taohuang13.github.io/humanoid-standingup.github.io/)
+- CoRL 2024, **OmniH2O**: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning, [Website](https://omni.human2humanoid.com/)
+- arXiv 2025, **HoST**: Learning Humanoid Standing-up Control Across Diverse Postures, [Website](https://taohuang13.github.io/humanoid-standingup.github.io/)
 - IROS 2024, **human2humanoid**: Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation, [Website](https://human2humanoid.com/)
 - arXiv 2025, **HugWBC**: A Unified and General Humanoid Whole-Body Controller for Fine-Grained Locomotion, [Website](https://hugwbc.github.io/)
 - arXiv 2025, **Embrace Collisions**: Humanoid Shadowing for Deployable Contact-Agnostics Motions, [Website](https://project-instinct.github.io/)
