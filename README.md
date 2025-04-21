@@ -1,5 +1,6 @@
 # A Paper List of Yang Liu
 ## Loco-manipulation
+- SIGGRAPH 2024, **VMP**: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters, [Website](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/)
 - CoRL 2024, **OmniH2O**: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning, [Website](https://omni.human2humanoid.com/)
 - arXiv 2025, **HoST**: Learning Humanoid Standing-up Control Across Diverse Postures, [Website](https://taohuang13.github.io/humanoid-standingup.github.io/)
 - IROS 2024, **human2humanoid**: Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation, [Website](https://human2humanoid.com/)
