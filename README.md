@@ -15,6 +15,7 @@
 - ICRA 2023, Learning Whole-body Manipulation for Quadrupedal Robot, [arXiv](https://arxiv.org/abs/2308.16820)
 ## Locomotion
 ### Humanoid
+- arXiv 2025, Learning Perceptive Humanoid Locomotion over Challenging Terrain, [arXiv](https://arxiv.org/abs/2503.00692)
 - arXiv 2025, **HWC-Loco**: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion, [arXiv](https://arxiv.org/abs/2503.00923)
 - arXiv 2025, **GMP**: Natural Humanoid Robot Locomotion with Generative Motion Prior, [Website](https://sites.google.com/view/humanoid-gmp)
 - arXiv 2025, **BeamDojo**: Learning Agile Humanoid Locomotion on Sparse Footholds, [Website](https://why618188.github.io/beamdojo/)
