@@ -1,5 +1,6 @@
 # A Paper List of Yang Liu
 ## Loco-manipulation
+- RSS 2025, **HumanUP**: Learning Getting-Up Policies for Real-World Humanoid Robots, [Website](https://humanoid-getup.github.io/)
 - arXiv 2025, **VideoMimic**: Visual imitation enables contextual humanoid control, [Website](https://www.videomimic.net/)
 - arXiv 2025, **HiFAR**: Multi-Stage Curriculum Learning for High-Dynamics Humanoid Fall Recovery, [arXiv](https://arxiv.org/abs/2502.20061)
 - SIGGRAPH 2024, **VMP**: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters, [Website](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/)
