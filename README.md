@@ -1,5 +1,6 @@
 # A Paper List of Yang Liu
 ## Loco-manipulation
+- arXiv 2025, **HuB**: Learning Extreme Humanoid Balance, [Website](https://hub-robot.github.io/)
 - RSS 2025, **HumanUP**: Learning Getting-Up Policies for Real-World Humanoid Robots, [Website](https://humanoid-getup.github.io/)
 - arXiv 2025, **VideoMimic**: Visual imitation enables contextual humanoid control, [Website](https://www.videomimic.net/)
 - arXiv 2025, **HiFAR**: Multi-Stage Curriculum Learning for High-Dynamics Humanoid Fall Recovery, [arXiv](https://arxiv.org/abs/2502.20061)
