@@ -1,6 +1,7 @@
 # A Paper List of Yang Liu
 ## Loco-manipulation
-- RSS 2025， **AMO**: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control, [Website](https://amo-humanoid.github.io/)
+- arXiv, **R2S2**: Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space, [Website](https://zzk273.github.io/R2S2/)
+- RSS 2025, **AMO**: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control, [Website](https://amo-humanoid.github.io/)
 - arXiv 2025, **HuB**: Learning Extreme Humanoid Balance, [Website](https://hub-robot.github.io/)
 - RSS 2025, **HumanUP**: Learning Getting-Up Policies for Real-World Humanoid Robots, [Website](https://humanoid-getup.github.io/)
 - arXiv 2025, **VideoMimic**: Visual imitation enables contextual humanoid control, [Website](https://www.videomimic.net/)
