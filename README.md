@@ -32,6 +32,7 @@
 - arXiv 2024, **PIM**: Learning Humanoid Locomotion with Perceptive Internal Model, [Website](https://junfeng-long.github.io/PIM/)
 - Science Robotics 2024, Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning, [arxiv](https://arxiv.org/abs/2304.13653)
 ### Quadruped
+- Science Robotics 2025, High-speed control and navigation for quadrupedal robots on complex and discrete terrain, [Video](https://www.youtube.com/watch?v=EZbM594T3c4)
 - arXiv 2025, **quadrupedal-agility**: Learning Diverse Natural Behaviors for Enhancing the Agility of Quadrupedal Robots, [Website](https://nju-rlc.github.io/quadrupedal_agility/)
 - arXiv 2025, **MoELoco**: Mixture of Experts for Multitask Locomotion,[Website](https://moe-loco.github.io/)
 - arXiv 2024,**MOVE**: Multi-skill Omnidirectional Legged Locomotion with Limited View in 3D Environments, [arXiv](https://arxiv.org/abs/2412.03353)
