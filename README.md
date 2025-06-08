@@ -55,6 +55,8 @@
 - RSS 2021, **RMA**: Rapid Motor Adaptation for Legged Robots, [Website](https://ashish-kmr.github.io/rma-legged-robots/)
 - CoRL 2022, Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning, [Website](https://leggedrobotics.github.io/legged_gym/) /  [arXiv](https://arxiv.org/abs/2109.11978)
 - RA-L 2023, Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors, [bilibili](https://www.bilibili.com/video/BV1nM4y177rY/)
+## Physics-Based Character Animation
+- arXiv 2025, **MaskedManipulator**: Versatile Whole-Body Control for Loco-Manipulation, [arXiv](https://arxiv.org/abs/2505.19086)
 ## Manipulation
 - CoRL 2024, **OpenVLA**: An Open-Source Vision-Language-Action Model, [Webiste](https://openvla.github.io/)
 - arXiv 2024, **EgoMimic**: Scaling Imitation Learning through Egocentric Video, [Website](https://egomimic.github.io/)
