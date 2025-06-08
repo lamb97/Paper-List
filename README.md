@@ -57,6 +57,12 @@
 - RA-L 2023, Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors, [bilibili](https://www.bilibili.com/video/BV1nM4y177rY/)
 ## Physics-Based Character Animation
 - arXiv 2025, **MaskedManipulator**: Versatile Whole-Body Control for Loco-Manipulation, [arXiv](https://arxiv.org/abs/2505.19086)
+- ICLR 2024， **PULSE**: Universal Humanoid Motion Representations for Physics-Based Control, [Website](https://www.zhengyiluo.com/PULSE-Site/)
+- arXic 2024, A Plug-and-Play Physical Motion Restoration Approach for In-the-Wild High-Difficulty Motions, [pdf](https://arxiv.org/pdf/2412.17377)
+- NeurIPS 2021, **UHC**: Dynamics-Regulated Kinematic Policy for Egocentric Pose Estimation, [Website](https://zhengyiluo.com/projects/kin_poly/)
+- ICCV 2023, **PHC**: Perpetual Humanoid Control for Real-time Simulated Avatars, [Website](https://zhengyiluo.com/PHC-Site/)
+- ACM SIGGRAPH 2024, **MaskedMimic**: Unified Physics-Based Character Control Through Masked Motion Inpainting, [Website](https://research.nvidia.com/labs/par/maskedmimic/)
+- ACM SIGGRAPH 2021, **AMP**: Adversarial Motion Priors for Stylized Physics-Based CharacterControl, [Website](https://xbpeng.github.io/projects/AMP/index.html)
 ## Manipulation
 - CoRL 2024, **OpenVLA**: An Open-Source Vision-Language-Action Model, [Webiste](https://openvla.github.io/)
 - arXiv 2024, **EgoMimic**: Scaling Imitation Learning through Egocentric Video, [Website](https://egomimic.github.io/)
@@ -73,12 +79,6 @@
 - RSS 2024, **RVT-2**: Learning Precise Manipulation from Few Examples, [Website](https://robotic-view-transformer-2.github.io/)
 - CoRL 2020, **Transporter Networks**: Rearranging the Visual World for Robotic Manipulation, [Webiste](https://transporternets.github.io/)
 ## Foundational model
-- ICLR 2024， **PULSE**: Universal Humanoid Motion Representations for Physics-Based Control, [Website](https://www.zhengyiluo.com/PULSE-Site/)
-- arXic 2024, A Plug-and-Play Physical Motion Restoration Approach for In-the-Wild High-Difficulty Motions, [pdf](https://arxiv.org/pdf/2412.17377)
-- NeurIPS 2021, **UHC**: Dynamics-Regulated Kinematic Policy for Egocentric Pose Estimation, [Website](https://zhengyiluo.com/projects/kin_poly/)
-- ICCV 2023, **PHC**: Perpetual Humanoid Control for Real-time Simulated Avatars, [Website](https://zhengyiluo.com/PHC-Site/)
-- ACM SIGGRAPH 2024, **MaskedMimic**: Unified Physics-Based Character Control Through Masked Motion Inpainting, [Website](https://research.nvidia.com/labs/par/maskedmimic/)
-- ACM SIGGRAPH 2021, **AMP**: Adversarial Motion Priors for Stylized Physics-Based CharacterControl, [Website](https://xbpeng.github.io/projects/AMP/index.html)
 - arXiv 2024, **Survey**: Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis, [arXiv](https://arxiv.org/abs/2312.08782)
 - arXiv 2024, **GVL**:Vision Language Models are In-Context Value Learners, [Website](https://generative-value-learning.github.io/#online-demo)
 - ECCV 2024, **COPL**:Visual Grounding for Object-Level Generalization in Reinforcement Learning, [arXiv](https://arxiv.org/abs/2408.01942)
