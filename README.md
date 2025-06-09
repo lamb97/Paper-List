@@ -56,6 +56,7 @@
 - CoRL 2022, Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning, [Website](https://leggedrobotics.github.io/legged_gym/) /  [arXiv](https://arxiv.org/abs/2109.11978)
 - RA-L 2023, Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors, [bilibili](https://www.bilibili.com/video/BV1nM4y177rY/)
 ## Physics-Based Character Animation
+- ACM SIGGRAPH 2022, **ControlVAE**: Model-Based Learning of Generative Controllers for Physics-Based Characters, [Website](https://heyuanyao-pku.github.io/Control-VAE/)
 - arXiv 2025, **MaskedManipulator**: Versatile Whole-Body Control for Loco-Manipulation, [arXiv](https://arxiv.org/abs/2505.19086)
 - ICLR 2024， **PULSE**: Universal Humanoid Motion Representations for Physics-Based Control, [Website](https://www.zhengyiluo.com/PULSE-Site/)
 - arXic 2024, A Plug-and-Play Physical Motion Restoration Approach for In-the-Wild High-Difficulty Motions, [pdf](https://arxiv.org/pdf/2412.17377)
