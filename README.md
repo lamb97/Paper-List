@@ -1,5 +1,6 @@
 # A Paper List of Yang Liu
 ## Loco-manipulation
+- arXiv 2025, **PBHC**: KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills, [Website](https://kungfu-bot.github.io/)
 - arXiv 2025, **R2S2**: Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space, [Website](https://zzk273.github.io/R2S2/)
 - RSS 2025, **AMO**: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control, [Website](https://amo-humanoid.github.io/)
 - arXiv 2025, **HuB**: Learning Extreme Humanoid Balance, [Website](https://hub-robot.github.io/)
