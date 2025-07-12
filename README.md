@@ -1,5 +1,6 @@
 # A Paper List of Yang Liu
 ## Loco-manipulation
+- arXiv 2025, **UniTracker**:  Learning Universal Whole-Body Motion Tracker for Humanoid Robots, [Website](https://arxiv.org/abs/2507.07356)
 - arXiv 2025, **GMT**: General Motion Tracking for Humanoid Whole-Body Control, [Website](https://gmt-humanoid.github.io/)
 - arXiv 2025, **PBHC**: KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills, [Website](https://kungfu-bot.github.io/)
 - arXiv 2025, **R2S2**: Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space, [Website](https://zzk273.github.io/R2S2/)
