@@ -60,6 +60,7 @@
 - CoRL 2022, Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning, [Website](https://leggedrobotics.github.io/legged_gym/) /  [arXiv](https://arxiv.org/abs/2109.11978)
 - RA-L 2023, Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors, [bilibili](https://www.bilibili.com/video/BV1nM4y177rY/)
 ## Physics-Based Character Animation
+- arXiv 2025, FEATURE-BASED VS. GAN-BASED LEARNING FROM DEMONSTRATIONS: WHEN AND WHY, [arXiv](https://arxiv.org/abs/2507.05906)
 - ICLR 2023, **MDM**: Human Motion Diffusion Model, [Website](https://guytevet.github.io/mdm-page/)
 - CVPR 2025, **InterMimic**: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, [Website](https://sirui-xu.github.io/InterMimic/)
 - arXiv 2025, **ADD**: Physics-Based Motion Imitation with Adversarial Differential Discriminators, [arXiv](https://arxiv.org/abs/2505.04961)
