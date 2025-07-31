@@ -74,6 +74,7 @@
 - ACM SIGGRAPH 2024, **MaskedMimic**: Unified Physics-Based Character Control Through Masked Motion Inpainting, [Website](https://research.nvidia.com/labs/par/maskedmimic/)
 - ACM SIGGRAPH 2021, **AMP**: Adversarial Motion Priors for Stylized Physics-Based CharacterControl, [Website](https://xbpeng.github.io/projects/AMP/index.html)
 ## Manipulation
+- arXiv 2025, **DreamVLA**: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge, [Website](https://zhangwenyao1.github.io/DreamVLA/)
 - arXiv 2025, **EgoVLA**: Learning Vision-Language-Action Models from Egocentric Human Videos, [Website](https://rchalyang.github.io/EgoVLA/)
 - CoRL 2024, **OpenVLA**: An Open-Source Vision-Language-Action Model, [Webiste](https://openvla.github.io/)
 - arXiv 2024, **EgoMimic**: Scaling Imitation Learning through Egocentric Video, [Website](https://egomimic.github.io/)
