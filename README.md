@@ -1,5 +1,6 @@
 # A Paper List of Yang Liu
 ## Loco-manipulation
+- arXiv 2025, **BFM4humanoid**: Behavior Foundation Model for Humanoid Robots, [Website](https://bfm4humanoid.github.io/)
 - arXiv 2025, **JAEGE**: RDual-Level Humanoid Whole-Body Controller, [Website](https://beingbeyond.github.io/Jaeger/)
 - arXiv 2025, **UniTracker**:  Learning Universal Whole-Body Motion Tracker for Humanoid Robots, [Website](https://arxiv.org/abs/2507.07356)
 - arXiv 2025, **GMT**: General Motion Tracking for Humanoid Whole-Body Control, [Website](https://gmt-humanoid.github.io/)
