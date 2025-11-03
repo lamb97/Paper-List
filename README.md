@@ -77,6 +77,7 @@
 - ACM SIGGRAPH 2024, **MaskedMimic**: Unified Physics-Based Character Control Through Masked Motion Inpainting, [Website](https://research.nvidia.com/labs/par/maskedmimic/)
 - ACM SIGGRAPH 2021, **AMP**: Adversarial Motion Priors for Stylized Physics-Based CharacterControl, [Website](https://xbpeng.github.io/projects/AMP/index.html)
 ## Manipulation
+- arXiv 2025, **PLD**: Self-Improving Vision-Language-Action Models with Data Generation via Residual RL, [Website](https://www.wenlixiao.com/self-improve-VLA-PLD)
 - arXiv 2025, Multi-Modal Manipulation via Multi-Modal Policy Consensus, [Website](https://policyconsensus.github.io/)
 - CoRL 2025, **ReWiND**: Language-Guided Rewards Teach Robot Policies without New Demonstrations, [Website](https://rewind-reward.github.io/)
 - CoRL 2025, **Vision in Action**: Learning Active Perception from Human Demonstrations, [Website](https://vision-in-action.github.io)
