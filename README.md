@@ -105,6 +105,7 @@
 - RSS 2024, **RVT-2**: Learning Precise Manipulation from Few Examples, [Website](https://robotic-view-transformer-2.github.io/)
 - CoRL 2020, **Transporter Networks**: Rearranging the Visual World for Robotic Manipulation, [Webiste](https://transporternets.github.io/)
 ## Foundational model
+- ICLR 2025, **SITR**: Sensor-Invariant Tactile Representation, [Website](https://hgupt3.github.io/sitr/)
 - arXiv 2024, **Survey**: Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis, [arXiv](https://arxiv.org/abs/2312.08782)
 - arXiv 2024, **GVL**:Vision Language Models are In-Context Value Learners, [Website](https://generative-value-learning.github.io/#online-demo)
 - ECCV 2024, **COPL**:Visual Grounding for Object-Level Generalization in Reinforcement Learning, [arXiv](https://arxiv.org/abs/2408.01942)
