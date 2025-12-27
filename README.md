@@ -79,6 +79,7 @@
 - ACM SIGGRAPH 2024, **MaskedMimic**: Unified Physics-Based Character Control Through Masked Motion Inpainting, [Website](https://research.nvidia.com/labs/par/maskedmimic/)
 - ACM SIGGRAPH 2021, **AMP**: Adversarial Motion Priors for Stylized Physics-Based CharacterControl, [Website](https://xbpeng.github.io/projects/AMP/index.html)
 ## Manipulation
+- CoRL 2025, **DexUMI**: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation, [Website](https://dex-umi.github.io/)
 - arXiv 2025, **Dexterity from Smart Lenses**: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations, [Website](https://aina-robot.github.io/)
 - arXiv 2025, **π*0.6**: a VLA that Learns from Experience, [Website](https://www.pi.website/blog/pistar06)
 - arXiv 2025, **In-N-On**: Scaling Egocentric manipulation with in-the-wild and on-task data, [Website](https://xiongyicai.github.io/In-N-On/)
