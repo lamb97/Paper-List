@@ -1,5 +1,6 @@
 # A Paper List of Yang Liu
 ## Loco-manipulation
+- arXiv 2025, **ResMimic**: From General Motion Tracking to Humanoid Whole-Body Loco-Manipulation via Residual Learning, [Website](https://resmimic.github.io/)
 - arXiv 2025, **HDMI**: Learning Interactive Humanoid Whole-Body Control from Human Videos, [Website](https://hdmi-humanoid.github.io)
 - arXiv 2025, **OmniRetarget**: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction, [Website](https://omniretarget.github.io/)
 - arXiv 2025, **BFM4humanoid**: Behavior Foundation Model for Humanoid Robots, [Website](https://bfm4humanoid.github.io/)
