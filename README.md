@@ -29,6 +29,7 @@
 - ICRA 2023, Learning Whole-body Manipulation for Quadrupedal Robot, [arXiv](https://arxiv.org/abs/2308.16820)
 ## Locomotion
 ### Humanoid
+- arXiv 2025 **DPL**: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction, [arXiv](https://arxiv.org/abs/2510.07152)
 - arXiv 2025 Attention-Based Map Encoding for Learning Generalized Legged Locomotion, [arXiv](https://arxiv.org/abs/2506.09588)
 - arXiv 2025 **Gallant**: Voxel Grid-based Humanoid Locomotion and Local-navigation across 3D Constrained Terrains, [Website](https://gallantloco.github.io/)
 - arXiv 2024 **LCP**: Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies, [Website](https://lipschitz-constrained-policy.github.io/)
