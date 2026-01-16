@@ -29,6 +29,7 @@
 - ICRA 2023, Learning Whole-body Manipulation for Quadrupedal Robot, [arXiv](https://arxiv.org/abs/2308.16820)
 ## Locomotion
 ### Humanoid
+- arXiv 2025 **AME-2**: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding, [Website](https://sites.google.com/leggedrobotics.com/ame-2)
 - arXiv 2025 **DPL**: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction, [arXiv](https://arxiv.org/abs/2510.07152)
 - arXiv 2025 Attention-Based Map Encoding for Learning Generalized Legged Locomotion, [arXiv](https://arxiv.org/abs/2506.09588)
 - arXiv 2025 **Gallant**: Voxel Grid-based Humanoid Locomotion and Local-navigation across 3D Constrained Terrains, [Website](https://gallantloco.github.io/)
