@@ -44,6 +44,7 @@
 - arXiv 2024, **PIM**: Learning Humanoid Locomotion with Perceptive Internal Model, [Website](https://junfeng-long.github.io/PIM/)
 - Science Robotics 2024, Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning, [arxiv](https://arxiv.org/abs/2304.13653)
 ### Quadruped
+- ICRA 2025, **WMP-LOCO**: World Model-based Perception for Visual Legged Locomotion, [Website](https://wmp-loco.github.io/)
 - IROS 2024, **PALOCO**: Learning Perturbation-Adaptive Locomotion for Quadruped Robots. [Webasite](https://paloco-iros24.github.io/)
 - Science Robotics 2022, Learning robust perceptive locomotion for quadrupedal robots in the wild, [arXiv](https://arxiv.org/abs/2201.08117)
 - Science Robotics 2025, High-speed control and navigation for quadrupedal robots on complex and discrete terrain, [Video](https://www.youtube.com/watch?v=EZbM594T3c4)
