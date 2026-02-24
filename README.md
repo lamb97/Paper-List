@@ -113,6 +113,8 @@
 - arXiv 2024, Do As I Can, Not As I Say:Grounding Language in Robotic Affordances, [arXiv](https://arxiv.org/abs/2204.01691)
 - RSS 2024, **RVT-2**: Learning Precise Manipulation from Few Examples, [Website](https://robotic-view-transformer-2.github.io/)
 - CoRL 2020, **Transporter Networks**: Rearranging the Visual World for Robotic Manipulation, [Webiste](https://transporternets.github.io/)
+### World Model
+- arXiv 2024, **DINO-WM**: World Models on Pre-trained Visual Features enable Zero-shot Planning, [Webisite](https://dino-wm.github.io/)
 ## Foundational model
 - ICLR 2025, **SITR**: Sensor-Invariant Tactile Representation, [Website](https://hgupt3.github.io/sitr/)
 - arXiv 2024, **Survey**: Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis, [arXiv](https://arxiv.org/abs/2312.08782)
