@@ -115,6 +115,7 @@
 - RSS 2024, **RVT-2**: Learning Precise Manipulation from Few Examples, [Website](https://robotic-view-transformer-2.github.io/)
 - CoRL 2020, **Transporter Networks**: Rearranging the Visual World for Robotic Manipulation, [Webiste](https://transporternets.github.io/)
 ### World Model
+- arXiv 2026, **Fast-WAM**: Do World Action Models Need Test-time Future Imagination? [Website](https://yuantianyuan01.github.io/FastWAM/)
 - arXiv 2025, **WorldPlanner**: Monte Carlo Tree Search and MPC with Action-Conditioned Visual World Models, [arXiv](https://arxiv.org/abs/2511.03077)
 - arXiv 2025, **V-JEPA 2**: Self-Supervised Video Models Enable Understanding, Prediction and Planning, [arXiv](https://arxiv.org/abs/2506.09985)
 - arXiv 2024, **DINO-WM**: World Models on Pre-trained Visual Features enable Zero-shot Planning, [Webisite](https://dino-wm.github.io/)
