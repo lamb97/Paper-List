@@ -115,6 +115,7 @@
 - RSS 2024, **RVT-2**: Learning Precise Manipulation from Few Examples, [Website](https://robotic-view-transformer-2.github.io/)
 - CoRL 2020, **Transporter Networks**: Rearranging the Visual World for Robotic Manipulation, [Webiste](https://transporternets.github.io/)
 ### World Model
+- arXiv 2026, **GRASP**: Parallel Stochastic Gradient-Based Planning for World Models, [Website](https://www.michaelpsenka.io/grasp/)
 - arXiv 2026, **LeWorldModel**: Stable End-to-End JEPA from Pixels, [Website](https://le-wm.github.io/)
 - arXiv 2026, **GVP-WM**: Grounding Generated Videos in Feasible Plans via World Models, [Website](https://chziakas.github.io/gvpwm/)
 - arXiv 2026, **Fast-WAM**: Do World Action Models Need Test-time Future Imagination? [Website](https://yuantianyuan01.github.io/FastWAM/)
