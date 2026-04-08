@@ -115,6 +115,7 @@
 - RSS 2024, **RVT-2**: Learning Precise Manipulation from Few Examples, [Website](https://robotic-view-transformer-2.github.io/)
 - CoRL 2020, **Transporter Networks**: Rearranging the Visual World for Robotic Manipulation, [Webiste](https://transporternets.github.io/)
 ### World Model
+- arXiv 2026, **Hierarchical**: World ModelHierarchical Planning with Latent World Models, [Website](https://kevinghst.github.io/HWM/)
 - ICLR 2026, **Ctrl-World**: A Controllable Generative World Model for Robot Manipulation, [Website](https://ctrl-world.github.io/)
 - arXiv 2026, **GRASP**: Parallel Stochastic Gradient-Based Planning for World Models, [Website](https://www.michaelpsenka.io/grasp/)
 - arXiv 2026, **LeWorldModel**: Stable End-to-End JEPA from Pixels, [Website](https://le-wm.github.io/)
